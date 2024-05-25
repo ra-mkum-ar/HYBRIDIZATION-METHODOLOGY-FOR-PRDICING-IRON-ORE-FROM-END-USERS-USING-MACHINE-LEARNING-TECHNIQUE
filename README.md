@@ -36,7 +36,7 @@ To develop innovative technology to analyses the various levels of mines while a
 ➢ A new technique called YOLO (You Only Look Once) makes it possible for a picture to anticipate 
      items and their locations after only one look. 
 ➢ For instant object identification, neural networks are used. To instantly complete the target 
-![image](https://github.com/ra-mkum-ar/HYBRIDIZATION-METHODOLOGY-FOR-PRDICING-IRON-ORE-FROM-END-USERS-USING-MACHINE-LEARNING-TECHNIQUE/assets/103347695/f130e241-5f82-4919-a747-52a1973dcf1d)
+
 
      detection regression and predict the position of the bounding box and the class of the candidate 
      box, the entire framework needs only to use a reasonably basic CNN structure. 
