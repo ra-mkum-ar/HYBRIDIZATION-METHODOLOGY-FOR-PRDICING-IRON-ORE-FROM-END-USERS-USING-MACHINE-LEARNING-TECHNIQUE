@@ -7,7 +7,8 @@ https://www.linkedin.com/posts/ram-kumar-n-b30a71271_hybridization-methodology-f
 
 ENTIRE DEMONSTRATION IN SINGLE VIDEO 👍 
 
-https://www.linkedin.com/posts/vijay-kumar-k-s-7376211vj308_video-iot-ugcPost-7040730134907166720-X38r?utm_source=share&utm_medium=member_desktop
+https://github.com/user-attachments/assets/516cca3b-9bbc-45a0-b9f4-995a24790199
+
 
 
 
