@@ -2,7 +2,7 @@ Welcome to the HYBRIDIZATION-METHODOLOGY-FOR-PRDICING-IRON-ORE-FROM-END-USERS-US
 
 PAPER PUBLISHED IN SCOPUS VISIT FOR MORE INFORMATION
 
-https://www.linkedin.com/posts/ram-kumar-n-b30a71271_hybridization-methodology-for-predicting-activity-7157710170196742145-XeFS?utm_source=share&utm_medium=member_desktop
+(https://ieeexplore.ieee.org/document/10396891/authors#authors)
 
 
 ENTIRE DEMONSTRATION IN SINGLE VIDEO 👍 
